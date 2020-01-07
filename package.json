@@ -38,7 +38,7 @@
     "cssnano": "^3.7.1",
     "postcss-cli": "^2.5.2",
     "postcss-import": "^8.1.2",
-    "postcss-nested": "^1.0.0",
+    "postcss-nested": "^4.2.1",
     "uglifyify": "^3.0.2",
     "watchify": "^3.7.0"
   }
